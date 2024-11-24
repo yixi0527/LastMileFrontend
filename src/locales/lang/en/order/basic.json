@@ -1,0 +1,7 @@
+{
+  "create": "create order",
+  "myOrder": "my order",
+  "waitingPayment": "waiting for payment",
+  "running": "running orders",
+  "all": "all orders"
+}

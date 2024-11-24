@@ -1,0 +1,20 @@
+/* global.css */
+/* global.css */
+.ant-list-split .ant-list-item {
+  border-block-end: 1px solid rgba(0, 0, 0, 0.5); /* 修改颜色为红色，透明度为 50% */
+}
+
+.list-search__title {
+  margin: 0;
+}
+.ant-modal .ant-modal-footer {
+  text-align: center;
+}
+
+.--sider-dark-bg-color {
+  background-color: #000;
+}
+
+.vben-menu-item .vben-simple-menu__children {
+  background-color: #434343;
+}

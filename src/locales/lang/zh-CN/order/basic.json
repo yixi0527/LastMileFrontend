@@ -1,0 +1,9 @@
+{
+  "create": "创建订单",
+  "myOrder": "我的订单",
+  "waitingPayment": "待付款订单",
+  "running": "进行中订单",
+  "all": "全部订单",
+  "waitingReview": "待评价订单",
+  "Status": "订单状态"
+}
